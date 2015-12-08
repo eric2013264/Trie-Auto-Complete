@@ -1,0 +1,9 @@
+C:\Users\Eric Chen\Desktop\CptS 322\HW13\HW13\bin\Debug\HW13.exe.config
+C:\Users\Eric Chen\Desktop\CptS 322\HW13\HW13\bin\Debug\HW13.exe
+C:\Users\Eric Chen\Desktop\CptS 322\HW13\HW13\bin\Debug\HW13.pdb
+C:\Users\Eric Chen\Desktop\CptS 322\HW13\HW13\obj\Debug\HW13.csprojResolveAssemblyReference.cache
+C:\Users\Eric Chen\Desktop\CptS 322\HW13\HW13\obj\Debug\HW13.Form1.resources
+C:\Users\Eric Chen\Desktop\CptS 322\HW13\HW13\obj\Debug\HW13.Properties.Resources.resources
+C:\Users\Eric Chen\Desktop\CptS 322\HW13\HW13\obj\Debug\HW13.csproj.GenerateResource.Cache
+C:\Users\Eric Chen\Desktop\CptS 322\HW13\HW13\obj\Debug\HW13.exe
+C:\Users\Eric Chen\Desktop\CptS 322\HW13\HW13\obj\Debug\HW13.pdb
